@@ -1,0 +1,18 @@
+{
+    "id": "3",
+    "productId" : "33218898",
+    "category" : "Men's Clothing",
+    "manufacturer" : "Contoso Sport",
+    "description" : "Dungeons and Dragon's Sport Hoodie",
+    "price" : "59.99",
+    "partner" : "Wizards of the Coast",
+    "partnerShare" : 0.5,
+    "shipping" : {
+        "weight" : 5,
+        "dimensions": {
+            "width": 10,
+            "height": 14,
+            "depth" : 1,
+        }
+    }
+}
